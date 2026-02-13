@@ -196,13 +196,30 @@ Load these files when you need detailed information on a specific topic:
 - [references/webhooks-local.md](references/webhooks-local.md) — Local dev with Polar CLI (`polar listen`)
 - [references/webhooks-delivery.md](references/webhooks-delivery.md) — Validation, SDK examples, IP allowlist, retry logic, troubleshooting
 
+### Benefits & License Keys
+- [references/benefits.md](references/benefits.md) — Benefit types (Credits, License Keys, File Downloads, GitHub, Discord, Custom), grant lifecycle, webhooks
+- [references/license-keys.md](references/license-keys.md) — License key validation, activation/deactivation, limits, brandable prefixes
+
+### Events & Metering
+- [references/events-metering.md](references/events-metering.md) — Usage-based billing, event ingestion, meters, cost tracking, credits
+
 ### Orders & Customers
 - [references/orders-subscriptions.md](references/orders-subscriptions.md) — Sales overview, checkout statuses, payment attempts
 - [references/customer-portal.md](references/customer-portal.md) — Customer portal URL, authenticated links via API
+- [references/refunds.md](references/refunds.md) — Refund processing, webhook events, benefit revocation
+
+### Webhook Events
+- [references/webhook-events.md](references/webhook-events.md) — Complete list of all webhook events, framework handler names
+
+### Metrics & Analytics
+- [references/metrics.md](references/metrics.md) — Revenue, MRR, churn, conversion, AOV, cost insights
 
 ### Customer State & Sandbox
 - [references/customer-state.md](references/customer-state.md) — Single API call for customer's subscriptions, benefits, meters; `customer.state_changed` webhook
 - [references/sandbox.md](references/sandbox.md) — Sandbox environment, test card numbers, API URLs, SDK config, limitations
+
+### API Reference
+- [references/api-reference.md](references/api-reference.md) — Complete list of all API endpoints, rate limits, pagination, scopes
 
 ### AI Integration
 - [references/mcp.md](references/mcp.md) — Polar MCP server for AI agents (Cursor, Claude, ChatGPT, etc.)
